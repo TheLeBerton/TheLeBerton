@@ -1,40 +1,11 @@
-## Hi, I'm TheLeBerton
+# Hi, I'm TheLeBerton
 
-42 student focused on systems programming, problem solving, and clean software design.
+I’m a student at 42, focused on systems programming and building reliable, well-structured software.
 
----
+I enjoy solving problems, designing clean architectures, and continuously improving how I work.
 
-## Focus
+Right now, I’m working through the [C++ modules](https://github.com/TheLeBerton/CPP) from the 42 curriculum while developing personal projects like [lpass](https://github.com/TheLeBerton/lpass), a lightweight password manager, and [tchat](https://github.com/TheLeBerton/tchat), a terminal-based chat application. I also maintain my own [.dotfiles](https://github.com/TheLeBerton/.dotfiles) to keep a consistent and efficient development environment.
 
-* C / C++ (42 curriculum)
-* python / lua ( personal )
-* Software architecture & code quality
-* CLI tools and developer workflows
-* Git-based project organization
+I currently care about writing simple, maintainable code and finishing what I start. I try to use GitHub issues and projects to stay organized and treat each project as a way to improve both technically and in discipline.
 
----
-
-## Current Work
-
-* **C++ Modules (42)**
-* **lpass** — lightweight password manager ( v1.0 )
-* **tchat** — terminal-based chat application ( v1.x.x )
-* **.dotfiles** — my dev environment
-
----
-
-## Approach
-
-* Write simple, maintainable code
-* Finish projects properly
-* Use GitHub issues & projects for structure
-* Prefer clarity over cleverness
-
----
-
-## Interests
-
-* Problem solving & algorithms
-* System-level programming
-* Automation & tooling
-* Strategy games ( chess, Factorio, Satisfactory )
+Outside of coding, I enjoy strategy-driven thinking, whether through chess or games like Factorio and Satisfactory.
